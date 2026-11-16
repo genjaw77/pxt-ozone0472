@@ -1,7 +1,7 @@
 
-# Ozone0472
-
-## Extension MakeCode pour micro:bit V2
+# Ozone0472 - Club Espace 
+## Les Hautes Ourmes - Les Chalais - Jacques Brel
+## Extension MakeCode pour micro:bit V2 
 
 Cette extension permet de programmer le capteur d'ozone DFRobot SEN0472.
 
@@ -23,4 +23,4 @@ Cette extension permet de programmer le capteur d'ozone DFRobot SEN0472.
 
 ## Auteur
 
-Projet pédagogique de technologie.
+Projet pédagogique Club Espace.
