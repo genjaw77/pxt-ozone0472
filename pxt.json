@@ -9,6 +9,7 @@
     },
     "files": [
         "ozone0472.ts",
+        "README.md",
         "icon.png"
     ],
     "public": true,
