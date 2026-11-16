@@ -1,0 +1,17 @@
+
+{
+    "name": "Ozone0472",
+    "version": "0.0.1",
+    "description": "Extension MakeCode pour capteur ozone SEN0472",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "ozone0472.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}
